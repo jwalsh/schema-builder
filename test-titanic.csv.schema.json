@@ -15,9 +15,6 @@
     "attributeName" : "Pclass",
     "attributeType" : "NUMERIC"
   }, {
-    "attributeName" : "Lname",
-    "attributeType" : "TEXT"
-  }, {
     "attributeName" : "Name",
     "attributeType" : "TEXT"
   }, {
