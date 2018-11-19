@@ -1,0 +1,25 @@
+{
+  "version" : "1.0",
+  "rowId" : null,
+  "rowWeight" : null,
+  "targetAttributeName" : "class",
+  "dataFormat" : "CSV",
+  "dataFileContainsHeader" : true,
+  "attributes" : [ {
+    "attributeName" : "sepal-length",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "sepal-width",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "petal-length",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "petal-width",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "class",
+    "attributeType" : "CATEGORICAL"
+  } ],
+  "excludedAttributeNames" : [ ]
+}

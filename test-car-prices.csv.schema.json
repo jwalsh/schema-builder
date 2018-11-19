@@ -1,0 +1,88 @@
+{
+  "version" : "1.0",
+  "rowId" : null,
+  "rowWeight" : null,
+  "targetAttributeName" : "price",
+  "dataFormat" : "CSV",
+  "dataFileContainsHeader" : true,
+  "attributes" : [ {
+    "attributeName" : "symboling",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "normalized-losses",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "make",
+    "attributeType" : "CATEGORICAL"
+  }, {
+    "attributeName" : "fuel-type",
+    "attributeType" : "CATEGORICAL"
+  }, {
+    "attributeName" : "aspiration",
+    "attributeType" : "CATEGORICAL"
+  }, {
+    "attributeName" : "num-of-doors",
+    "attributeType" : "CATEGORICAL"
+  }, {
+    "attributeName" : "body-style",
+    "attributeType" : "CATEGORICAL"
+  }, {
+    "attributeName" : "drive-wheels",
+    "attributeType" : "CATEGORICAL"
+  }, {
+    "attributeName" : "engine-location",
+    "attributeType" : "CATEGORICAL"
+  }, {
+    "attributeName" : "wheel-base",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "length",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "width",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "height",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "curb-weight",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "engine-type",
+    "attributeType" : "CATEGORICAL"
+  }, {
+    "attributeName" : "num-of-cylinders",
+    "attributeType" : "CATEGORICAL"
+  }, {
+    "attributeName" : "engine-size",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "fuel-system",
+    "attributeType" : "CATEGORICAL"
+  }, {
+    "attributeName" : "bore",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "stroke",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "compression-ratio",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "horsepower",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "peak-rpm",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "city-mpg",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "highway-mpg",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "price",
+    "attributeType" : "NUMERIC"
+  } ],
+  "excludedAttributeNames" : [ ]
+}

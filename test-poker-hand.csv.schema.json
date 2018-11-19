@@ -1,0 +1,43 @@
+{
+  "version" : "1.0",
+  "rowId" : null,
+  "rowWeight" : null,
+  "targetAttributeName" : "CLASS",
+  "dataFormat" : "CSV",
+  "dataFileContainsHeader" : true,
+  "attributes" : [ {
+    "attributeName" : "S1",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "C1",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "S2",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "C2",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "S3",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "C3",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "S4",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "C4",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "S5",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "C5",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "CLASS",
+    "attributeType" : "NUMERIC"
+  } ],
+  "excludedAttributeNames" : [ ]
+}

@@ -1,0 +1,46 @@
+{
+  "version" : "1.0",
+  "rowId" : null,
+  "rowWeight" : null,
+  "targetAttributeName" : "quality",
+  "dataFormat" : "CSV",
+  "dataFileContainsHeader" : true,
+  "attributes" : [ {
+    "attributeName" : "fixed acidity",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "volatile acidity",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "citric acid",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "residual sugar",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "chlorides",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "free sulfur dioxide",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "total sulfur dioxide",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "density",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "pH",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "sulphates",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "alcohol",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "quality",
+    "attributeType" : "NUMERIC"
+  } ],
+  "excludedAttributeNames" : [ ]
+}

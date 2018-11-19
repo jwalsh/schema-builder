@@ -1,0 +1,49 @@
+{
+  "version" : "1.0",
+  "rowId" : null,
+  "rowWeight" : null,
+  "targetAttributeName" : "Survived",
+  "dataFormat" : "CSV",
+  "dataFileContainsHeader" : true,
+  "attributes" : [ {
+    "attributeName" : "PassengerId",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Survived",
+    "attributeType" : "BINARY"
+  }, {
+    "attributeName" : "Pclass",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Lname",
+    "attributeType" : "TEXT"
+  }, {
+    "attributeName" : "Name",
+    "attributeType" : "TEXT"
+  }, {
+    "attributeName" : "Sex",
+    "attributeType" : "CATEGORICAL"
+  }, {
+    "attributeName" : "Age",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "SibSp",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Parch",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Ticket",
+    "attributeType" : "TEXT"
+  }, {
+    "attributeName" : "Fare",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Cabin",
+    "attributeType" : "CATEGORICAL"
+  }, {
+    "attributeName" : "Embarked",
+    "attributeType" : "CATEGORICAL"
+  } ],
+  "excludedAttributeNames" : [ ]
+}
