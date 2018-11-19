@@ -1,0 +1,22 @@
+field           type     sum                  min       max        min_length  max_length  mean                 stddev
+age             Integer  1648511              17        98         2           2           40.02406040594333    10.421123471838774
+job             Unicode                       admin.    unknown    6           13                               
+marital         Unicode                       divorced  unknown    6           8                                
+education       Unicode                       basic.4y  unknown    7           19                               
+default         Unicode                       no        yes        2           7                                
+housing         Unicode                       no        yes        2           7                                
+loan            Unicode                       no        yes        2           7                                
+contact         Unicode                       cellular  telephone  8           9                                
+month           Unicode                       apr       sep        3           3                                
+day_of_week     Unicode                       fri       wed        3           3                                
+duration        Integer  10638243             0         4918       1           4           258.2850101971464    259.2761013077848
+campaign        Integer  105754               1         56         1           2           2.5675925026706956   2.7699799162349055
+pdays           Integer  39642439             0         999        1           3           962.4754540157268    186.90863833384253
+previous        Integer  7124                 0         7          1           1           0.17296299893172795  0.4948950719719038
+poutcome        Unicode                       failure   success    7           11                               
+emp_var_rate    Float    3372.700000000166    -3.4      1.4        2           4           0.08188550063125091  1.5709406698013262
+cons_price_idx  Float    3854194.4640005818   92.201    94.767     4           6           93.57566436826231    0.5788330221069563
+cons_conf_idx   Float    -1668221.0999998036  -50.8     -26.9      3           5           -40.50260027192417   4.628141672019598
+euribor3m       Float    149153.72600000136   0.634     5.045      1           5           3.6212908128580876   1.7344263494718777
+nr_employed     Float    212819875.09990707   4963.6    5228.1     4           6           5167.035910944915    72.25065056854544
+y               Integer  4640                 0         1          1           1           0.11265417111780125  0.3161695887456013
